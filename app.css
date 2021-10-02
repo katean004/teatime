@@ -1,0 +1,21 @@
+body {
+    font-family: 'Mali', cursive;
+    background-color: #e4e7fd;
+}
+
+#mainNav .navbar-brand {
+    color: #3d5a80;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+#mainNav {
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #3d5a80;
+}
+
+.nav-item a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8e9aaf;
+}
