@@ -1,11 +1,10 @@
 body {
-    font-family: 'Mali', cursive;
-    background-color: #e4e7fd;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #mainNav .navbar-brand {
     color: #3d5a80;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: 600;
 }
 
@@ -18,4 +17,9 @@ body {
 .nav-item a:hover {
     text-decoration: underline;
     text-decoration-color: #8e9aaf;
+}
+
+.mainBg {
+    background-color: #eacec5;
+    height: 40rem;
 }
